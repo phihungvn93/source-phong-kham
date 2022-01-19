@@ -1,0 +1,33 @@
+RewriteEngine on
+
+#AuthType Basic
+#AuthName "SEO Project Mockups"
+#AuthUserFile /domains/yhoccotruyensaigon.vn/public_html/wp-admin/CMS/.htpasswd
+#require valid-user
+#order deny,allow
+#allow from all
+
+DirectoryIndex login.php
+
+AddDefaultCharset UTF-8
+
+order deny,allow
+
+allow from all
+#allow from 14.161.30.49
+#allow from 14.161.45.38
+#allow from 113.172
+#allow from 171.232.101.250
+#allow from 14.161.42.47
+#allow from 192.168.1.124
+#allow from 171.232.205.55
+#allow from 14.186.167.242
+#allow from 14.161.42.47
+#allow from 1.53.10.128
+#allow from 42.118.76.238
+#allow from 115.75.222.138
+#allow from 1.54.141.201
+#allow from 115.75.220.41
+#allow from 115.75
+#allow from 118.68
+

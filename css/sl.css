@@ -1,0 +1,73 @@
+#slider_quatangsuckhoe{
+	height: 450px;
+	width: 100%;
+	background:#f7f7f7 url(../images/bg_sl_01.jpg);
+  	background-position:top center;
+	position:relative;
+	overflow: hidden;
+}
+#slider_quatangsuckhoe .main_sl{
+	height: 100%;
+	width: 950px;
+	margin: 0 auto;
+	position: relative;
+}
+#slider_quatangsuckhoe .layer{
+	position: absolute;
+}
+#slider_quatangsuckhoe #bg_table{
+	bottom: 0px;
+	left: 25px;
+}
+#slider_quatangsuckhoe #product_1{
+	bottom: 70px;
+	left: 30px;
+}
+#slider_quatangsuckhoe #product_3{
+	bottom: 70px;
+	left: 100px;
+}
+#slider_quatangsuckhoe #product_4{
+	bottom: 70px;
+	left: 190px;
+	z-index: 1;
+}
+#slider_quatangsuckhoe #product_5{
+	bottom: 70px;
+	left: 250px;
+}
+#slider_quatangsuckhoe #product_6{
+	bottom: 60px;
+	left: 380px;
+}
+#slider_quatangsuckhoe #picture_1{
+	top: 0;
+	left: 0px;
+}
+#slider_quatangsuckhoe #picture_2{
+	top: 0;
+	left: 110px;
+}
+#slider_quatangsuckhoe #picture_3{
+	top: 0;
+	left: 220px;
+}
+#slider_quatangsuckhoe #picture_4{
+	top: 0;
+	left: 330px;
+}
+#slider_quatangsuckhoe #quatang_suckhoe{
+	top: 60px;
+	right: 0px;
+}
+#slider_quatangsuckhoe #hotline{
+	top: 120px;
+	right: 10px;
+}
+#slider_quatangsuckhoe #ad_sl{
+	top: 205px;
+	right: 20px;
+}
+.bgsize_full {
+    background-size: 100% 100%!important;
+}

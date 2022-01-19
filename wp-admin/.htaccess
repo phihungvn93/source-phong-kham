@@ -1,0 +1,10 @@
+RewriteEngine on
+DirectoryIndex login.php
+
+AddDefaultCharset UTF-8
+
+order deny,allow
+allow from all
+#allow from 14.161.30.49
+#allow from 14.161.45.38
+#allow from 115.79.144.24
